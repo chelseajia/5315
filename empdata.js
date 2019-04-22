@@ -5,105 +5,105 @@
       "gender": "Male",
       "current alias": "Iron Man",
       "marital status": "Single",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Carol Danvers",
       "gender": "Female",
       "current alias": "Captain Marvel",
       "marital status": "Single",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Steven Rogers",
       "gender": "Male",
       "current alias": "Captain America",
       "marital status": "Single",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "James Howlett",
       "gender": "Male",
       "current alias": "Wolverine",
       "marital status": "Widowed",
-      "citizenship": "Canadian",
+      "citizenship": "Canadian"
     },
     {
       "name": "T'Challa",
       "gender": "Male",
       "current alias": "Black Panther",
       "marital status": "Single",
-      "citizenship": "Wakandan",
+      "citizenship": "Wakandan"
     },
     {
       "name": "Natalia Romanova",
       "gender": "Female",
       "current alias": "Black Widow",
       "marital status": "Divorced",
-      "citizenship": "Russian, American",
+      "citizenship": "Russian, American"
     },
     {
      "name": "Clinton Barton",
       "gender": "Male",
       "current alias": "Hawkeye",
       "marital status": "Divorced",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Wanda Maximoff",
       "gender": "Female",
       "current alias": "Scarlet Witch",
       "marital status": "Divorced",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Pietro Maximoff",
       "gender": "Male",
       "current alias": "Quicksilver",
       "marital status": "Single",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Thor Odinson",
       "gender": "Male",
       "current alias": "God of Thunder",
       "marital status": "Single",
-      "citizenship": "Asgardian",
+      "citizenship": "Asgardian"
     },
     {
       "name": "Wade Wilson",
       "gender": "Male",
       "current alias": "Deadpool",
       "marital status": "Married",
-      "citizenship": "Canadian",
+      "citizenship": "Canadian"
     },
     {
       "name": "Janet van Dyne",
       "gender": "Female",
       "current alias": "The Wasp",
       "marital status": "Divorced",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Henry Pym",
       "gender": "Male",
       "current alias": "Ant-Man",
       "marital status": "Divorced",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Scott Summers",
       "gender": "Male",
       "current alias": "Cyclops",
       "marital status": "Married",
-      "citizenship": "American",
+      "citizenship": "American"
     },
     {
       "name": "Max Eisenhardt",
       "gender": "Male",
       "current alias": "Magneto",
       "marital status": "Widowed",
-      "citizenship": "German",
+      "citizenship": "German"
     },
     {
       "name": "Charles Xavier",
