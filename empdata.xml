@@ -36,73 +36,80 @@
       <citizenship>Wakandan</citizenship>
     </data>
     <data>
-      <name>Tony Stark</name>
+      <name>Natalia Romanova</name>
+      <gender>Female</gender>
+      <current_alias>Black Widow</current_alias>
+      <marital_status>Divorced</marital_status>
+      <citizenship>Russian, American</citizenship>
+    </data>
+    <data>
+      <name>Clinton Barton</name>
       <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
+      <current_alias>Hawkeye</current_alias>
+      <marital_status>Divorced</marital_status>
+      <citizenship>American</citizenship>
+    </data>
+    <data>
+      <name>Wanda Maximoff</name>
+      <gender>Female</gender>
+      <current_alias>Scarlet Witch</current_alias>
+      <marital_status>Divorced</marital_status>
+      <citizenship>American</citizenship>
+    </data>
+    <data>
+     <name>Pietro Maximoff</name>
+      <gender>Male</gender>
+      <current_alias>Quicksilver</current_alias>
       <marital_status>Single</marital_status>
       <citizenship>American</citizenship>
     </data>
     <data>
-      <name>Tony Stark</name>
+     <name>Thor Odinson</name>
       <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
+      <current_alias>God of Thunder</current_alias>
       <marital_status>Single</marital_status>
+      <citizenship>Asgardian</citizenship>
+    </data>
+    <data>
+      <name>Wade Wilson</name>
+      <gender>Male</gender>
+      <current_alias>Deadpool</current_alias>
+      <marital_status>Married</marital_status>
+      <citizenship>Canadian</citizenship>
+    </data>
+    <data>
+      <name>Janet van Dyne</name>
+      <gender>Female</gender>
+      <current_alias>The Wasp</current_alias>
+      <marital_status>Divorced</marital_status>
       <citizenship>American</citizenship>
     </data>
     <data>
-      <name>Tony Stark</name>
+      <name>Henry Pym</name>
       <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
+      <current_alias>Ant-Man</current_alias>
+      <marital_status>Divorced</marital_status>
       <citizenship>American</citizenship>
     </data>
     <data>
-     <name>Tony Stark</name>
+     <name>Scott Summers</name>
       <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
+      <current_alias>Cyclops</current_alias>
+      <marital_status>Married</marital_status>
       <citizenship>American</citizenship>
     </data>
     <data>
-     <name>Tony Stark</name>
+     <name>Max Eisenhardt</name>
       <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
-      <citizenship>American</citizenship>
+      <current_alias>Magneto</current_alias>
+      <marital_status>Widowed</marital_status>
+      <citizenship>German</citizenship>
     </data>
     <data>
-      <name>Tony Stark</name>
+      <name>Charles Xavier</name>
       <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
-      <citizenship>American</citizenship>
-    </data>
-    <data>
-      <name>Tony Stark</name>
-      <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
-      <citizenship>American</citizenship>
-    </data>
-    <data>
-      <name>Tony Stark</name>
-      <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
-      <citizenship>American</citizenship>
-    </data>
-    <data>
-     <name>Tony Stark</name>
-      <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
-      <citizenship>American</citizenship>
-    </data>
-    <data>
-      <name>Tony Stark</name>
-      <gender>Male</gender>
-      <current_alias>Iron Man</current_alias>
-      <marital_status>Single</marital_status>
+      <current_alias>X</current_alias>
+      <marital_status>Divorced</marital_status>
       <citizenship>American</citizenship>
     </data>
   </superheros>
