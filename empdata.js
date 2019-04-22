@@ -111,7 +111,6 @@
       "current alias": "X",
       "marital status": "Divorced",
       "citizenship": "American"
-      ,
     }
   ]
 }
